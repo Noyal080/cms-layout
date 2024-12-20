@@ -77,7 +77,7 @@ const Navbar: React.FC<NavbarProps> = ({
       position={isStickyNav ? "sticky" : "fixed"}
       className="bg-black text-white shadow-md transition-all duration-300"
       color="inherit"
-      style={{ height: "64px" }}
+      style={{ height: "80px" }}
     >
       <Toolbar className="justify-between">
         {/* Logo Section */}
